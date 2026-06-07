@@ -61,5 +61,5 @@ Predicted PM10 : xxx
 
 **成員**
 - 成員一：@Shumminnnnnn
-- 成員二：@xxx
-- 成員三：@xxx
+- 成員二：@kangwu737
+- 成員三：@xuanbee2e7
