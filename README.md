@@ -1,6 +1,7 @@
 # DL2026_Team6_Detection of PM2.5 and PM10 values ​​based on a single static image
 
 **專案目標**
+
   本專案透過深度學習，從空氣污染影像中預測空氣中的 PM2.5 與 PM10 濃度值（μg/m³）。專案採用 EfficientNet-B3 作為模型架構，利用預訓練模型進行特徵提取，並透過迴歸方式同時預測兩種空氣品質指標，希望能提供一種低成本且快速的空氣品質監測方法。
 
 **檔案說明**
