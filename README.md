@@ -22,11 +22,11 @@ pip install kaggle
 pip install torch torchvision
 pip install pandas numpy matplotlib seaborn pillow tqdm
 
-Step 2：下載 Kaggle API Token
-登入 Kaggle
-點選 Account
-選擇 Create New Token
-下載 kaggle.json
+Step 2：下載 Kaggle API Token:
+登入 Kaggle,
+點選 Account,
+選擇 Create New Token,
+下載 kaggle.json.
 
 Step 3：上傳 kaggle.json
 將下載的 kaggle.json 上傳至 Google Colab 或 Jupyter Notebook 執行環境。
@@ -34,10 +34,10 @@ Step 3：上傳 kaggle.json
 Step 4：執行程式
 開啟 finalproject.ipynb，依序執行所有 Cell。
 程式將自動完成：
-資料集下載與解壓縮
-資料前處理
-模型訓練
-模型評估
+資料集下載與解壓縮,
+資料前處理,
+模型訓練,
+模型評估.
 
 Step 5：進行預測
 執行 Notebook 最後的單張圖片預測程式，選擇欲測試的圖片後，即可輸出預測結果：
