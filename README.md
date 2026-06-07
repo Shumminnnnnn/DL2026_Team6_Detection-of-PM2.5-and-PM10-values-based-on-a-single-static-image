@@ -55,3 +55,8 @@ Predicted PM10 : xxx
 
 - 檔案名稱：best_model.pth
 - 下載連結：https://drive.google.com/your-link-here
+
+**成員**
+- 成員一：@Shumminnnnnn
+- 成員二：@xxx
+- 成員三：@xxx
