@@ -56,7 +56,8 @@ Predicted PM10 : xxx
 訓練完成的模型檔案因容量較大，所以存放於 Google Drive：
 
 - 檔案名稱：best_model.pth
-- 下載連結：https://drive.google.com/drive/folders/1dHVBQabvdFKETDxdMNhVOYfFXG4vcKcD?usp=sharing
+- 下載連結：https://drive.google.com/file/d/1u1eSAM39dE6dNG7iTJ9oMgRJfunc3R-d/view?usp=sharing
+
 
 **成員**
 - 成員一：@Shumminnnnnn
