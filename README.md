@@ -43,3 +43,15 @@ Step 5：進行預測
 執行 Notebook 最後的單張圖片預測程式，選擇欲測試的圖片後，即可輸出預測結果：
 Predicted PM2.5: xxx
 Predicted PM10 : xxx
+
+**資料集**
+公開資料集（from Kaggle）：
+- 名稱：Air Pollution Image Dataset from India and Nepal
+- 連結：https://www.kaggle.com/datasets/adarshrouniyar/air-pollution-image-dataset-from-india-and-nepal
+- 內容：含空污照片（JPG/PNG）及對應的 PM2.5、PM10、AQI 標籤 CSV
+
+**模型檔**
+訓練完成的模型權重檔案因容量較大，存放於 Google Drive：
+
+- 檔案名稱：best_model.pth
+- 下載連結：https://drive.google.com/your-link-here
